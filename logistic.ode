@@ -1,0 +1,7 @@
+# the simplest biologically realistic model
+
+par r=1
+
+x(t+1) = r*x*(1-x)
+
+done
